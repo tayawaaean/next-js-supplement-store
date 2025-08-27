@@ -34,7 +34,29 @@ A **production-ready** inventory management system for supplement stores with re
 
 ## 🚀 Live Demo
 
-**Coming Soon** - Deploy your own instance or check out the demo
+**🌐 [View Live Application](https://next-js-supplement-store.vercel.app/)**
+
+Experience the full functionality of the supplement store:
+- **Customer Features**: Browse products, add to cart, checkout with Stripe
+- **Admin Panel**: Manage inventory, orders, customers, and messages
+- **Real-time Chat**: Live customer support messaging system
+- **Responsive Design**: Optimized for all devices
+
+> **Note**: This is a demo environment. Please use the sample admin account for testing.
+
+### 🧪 Demo Credentials
+
+**Admin Access:**
+```
+Email: admin@supplementstore.com
+Password: admin123
+```
+
+**What You Can Test:**
+- **🛍️ Customer Experience**: Browse products, add to cart, checkout
+- **👨‍💼 Admin Panel**: Manage inventory, view orders, handle messages
+- **💬 Real-time Chat**: Test the customer support messaging system
+- **💳 Stripe Integration**: Complete checkout flow (test mode)
 
 ## 🛠️ Tech Stack
 
